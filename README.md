@@ -1,2 +1,2 @@
-# mvc5
-mvc5+EF
+# mvc
+mvc+EF
